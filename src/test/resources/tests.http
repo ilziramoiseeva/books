@@ -1,0 +1,36 @@
+http://localhost:8080/books
+
+
+###
+ http://localhost:8080/books/3
+
+
+###
+
+ http://localhost:8080/books/0/save?categoryId=2&name=Война и Мир&author=Н.Н.Толстой&price=550
+
+###
+
+http://localhost:8080/books/categories/2
+
+###
+
+ http://localhost:8080/books/8/save?categoryId=2&name=Война и Мир&author=Л.Н.Толстой&price=550
+
+###
+
+
+ http://localhost:8080/books/8/remove
+
+###
+
+ http://localhost:8080/books/search?name=Мы&author=Е.И.Замятин
+
+ ###
+
+
+
+
+
+
+
